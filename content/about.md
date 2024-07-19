@@ -5,31 +5,30 @@ hideBackToTop: true
 hidePagination: true
 # autonumber: true
 ---
-Chi Le
-I studied Computer Science from 2017 to 2022 at the University 
-of Trento and Milan, and started working as a Software Engineer soon after.
-More recently, I moved to Berlin.
+
+Currently, I am a Master's student in Electrical and Computer Engineering at Duke University. 
+I have gained industry experience as a Software Engineer Intern at Meituan in Beijing and MatrixOrigin in Sunnyvale.
 
 ## Experience
 
-[Amazon](https://www.amazon.jobs/teams/aft) \
-07/24 - Now | Berlin \
-*Software Development Engineer II*
+[Meituan](https://www.meituan.com/) \
+05/24 - 08/24 | Beijing \
+*Software Engineer Intern*
 
-[Satispay](https://www.satispay.com/) \
-01/23 - 06/24 | Milan \
-*Software Engineer*
-
-[Spaziodati](https://www.spaziodati.eu/) \
-02/20 - 06/20 | Trento \
+[MatrixOrigin](https://www.matrixorigin.io/) \
+06/24 - 10/24 | Sunnyvale \
 *Software Engineer Intern*
 
 ## Education
 
-[University of Milan](https://www.unimi.it/) \
-2020 - 2022 \
-*Master's degree in computer science*
+[Duke University](https://duke.edu/) \
+2023 - 2025 \
+*Master's Student in Electrical and Computer Engineering*
 
-[University of Trento](https://www.unitn.it/) \
-2017 - 2020 \
-*Bachelor's degree in computer science*
+[Zhejiang University](https://www.zju.edu.cn/) \
+2019 - 2023 \
+*Bachelor's degrees in Biomedical Sciences*
+
+[the University of Edinburgh](https://www.ed.ac.uk/) \
+2019 - 2023 \
+*Bachelor's degrees in Biomedical Sciences*
