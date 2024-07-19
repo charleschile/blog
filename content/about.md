@@ -27,8 +27,8 @@ I have gained industry experience as a Software Engineer Intern at Meituan in Be
 
 [Zhejiang University](https://www.zju.edu.cn/) \
 2019 - 2023 \
-*Bachelor's degrees in Biomedical Sciences*
+*Bachelor's degree in Biomedical Sciences*
 
-[the University of Edinburgh](https://www.ed.ac.uk/) \
+[The University of Edinburgh](https://www.ed.ac.uk/) \
 2019 - 2023 \
-*Bachelor's degrees in Biomedical Sciences*
+*Bachelor's degree in Biomedical Sciences*

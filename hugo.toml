@@ -22,8 +22,8 @@ hideHeader = false
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
 I am a Master's Student in Electrical and Computer Engineering at Duke University, specializing in software development. 
-I hold dual bachelor's degrees in Biomedical Sciences from Zhejiang University and the University of Edinburgh, graduated in June 2022. 
-Passionate about computer science, I am an enthusiastic self-learner with interests spanning various fields. 
+I hold dual bachelor's degrees in Biomedical Sciences from Zhejiang University and the University of Edinburgh, graduated in June 2023. 
+Passionate about computer science and software development, I am an enthusiastic self-learner with interests spanning various fields. 
 I am interested in a range of topics, including algorithms, distributed systems, databases, and AIGC.
 """
 
@@ -50,7 +50,7 @@ url = "https://medium.com/@user"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/charleschile"
 
 # Main menu pages
 [[params.menu]]
