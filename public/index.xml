@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on My website</title>
-    <link>https://example.org/</link>
-    <description>Recent content in Home on My website</description>
+    <title>Home on Chi Le</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Chi Le</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I studied Computer Science from 2017 to 2022 at the University of Trento and Milan, and started working as a Software Engineer soon after. More recently, I moved to Berlin.&#xA;Experience Amazon 07/24 - Now | Berlin Software Development Engineer II&#xA;Satispay 01/23 - 06/24 | Milan Software Engineer&#xA;Spaziodati 02/20 - 06/20 | Trento Software Engineer Intern&#xA;Education University of Milan 2020 - 2022 Master&amp;rsquo;s degree in computer science</description>
+    </item>
   </channel>
 </rss>
