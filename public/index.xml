@@ -6,8 +6,29 @@
     <description>Recent content on Chi Le</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 16:11:26 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A/B test论文阅读：Overlapping Experiment Infrastructure: More, Better, Faster Experimentation</title>
+      <link>http://localhost:1313/posts/abtest/</link>
+      <pubDate>Tue, 23 Jul 2024 16:11:26 +0800</pubDate>
+      <guid>http://localhost:1313/posts/abtest/</guid>
+      <description>来自谷歌团队a/b test的实践和来自美团的测试平台的实践</description>
+    </item>
+    <item>
+      <title>Build Personal Website with Hugo</title>
+      <link>http://localhost:1313/posts/hugo/</link>
+      <pubDate>Mon, 22 Jul 2024 16:41:17 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hugo/</guid>
+      <description>Experience with building and deploying Hugo website</description>
+    </item>
+    <item>
+      <title>美团实习经历</title>
+      <link>http://localhost:1313/posts/intern/</link>
+      <pubDate>Mon, 22 Jul 2024 16:34:32 +0800</pubDate>
+      <guid>http://localhost:1313/posts/intern/</guid>
+      <description>Software development engineer internship experience @ Meituan</description>
+    </item>
     <item>
       <title>Controlling Images with tags in Hugo</title>
       <link>http://localhost:1313/posts/hugo-images/</link>
