@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "A/B test论文阅读：Overlapping Experiment Infrastructure: More, Better, Faster Experimentation"
 date: '2024-07-23T16:11:26+08:00'
 summary: "来自谷歌团队a/b test的实践和来自美团的测试平台的实践"
