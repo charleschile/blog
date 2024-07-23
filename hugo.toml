@@ -14,7 +14,7 @@ googleAnalytics = "G-xxxxxxxxx"
 description = "A Tech Blog"
 
 # Appearance settings
-theme = 'auto'
+theme = 'default'
 colorPalette = 'default'
 hideHeader = false
 
