@@ -33,7 +33,15 @@ Loadfile function is being modified!
 > 
 > It was not designed to read files from all the rules or something of that sort. it would just read files from the 1st row
 >
-> ReadFromFIle function
+> ReadFromFIle function 
+>
+> 14:45
+>
+> python api
+>
+> python api where diffferent chunkings are implemented already
+>
+> Find out some python libraries and sample codes which are particularly used by this Llm model and all those things to do chunking, and then try to incorporate that paricular strategy in.
 
 
 - [ ] read a file 
