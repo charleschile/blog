@@ -2,13 +2,13 @@
 <html lang="en-us"
   dir="ltr">
 
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
-<meta name="viewport" content="width=device-width"><meta name="description" content="" />
+<meta name="viewport" content="width=device-width"><meta name="description" content="MatrixOne开源开发经历" />
 
 <title>
     
-    美团实习经历 | Chi Le
+    MatrixOne开源开发经历 | Chi Le
     
 </title>
 
@@ -24,11 +24,6 @@
 
 
 <link rel="stylesheet" href="/assets/combined.min.a6824bbee0d90d5af09fed9b70395ce7076b615e315037455d903314e96ef91b.css" media="all">
-
-
-
-
-  
 
 
 
@@ -97,19 +92,19 @@
     <a href="/posts/">Posts</a>
     <span class="breadcrumbs-separator"> > </span>
     
-    <a class="breadcrumbs-current" href="/posts/intern/">美团实习经历</a>
+    <a class="breadcrumbs-current" href="/posts/matrixone/">MatrixOne开源开发经历</a>
 </div>
 
 
-<div  class="autonumber" >
+<div >
 
   <div class="single-intro-container">
 
     
 
-    <h1 class="single-title">美团实习经历</h1>
+    <h1 class="single-title">MatrixOne开源开发经历</h1>
     
-    <p class="single-summary">Software development engineer internship experience @ Meituan</p>
+    <p class="single-summary">MatrixOne开源开发经历</p>
     
 
     
@@ -118,7 +113,7 @@
       
       
       
-      <time datetime="2024-07-22T16:34:32&#43;08:00">July 22, 2024</time>
+      <time datetime="2024-07-24T10:35:26&#43;08:00">July 24, 2024</time>
       
 
       
@@ -137,12 +132,12 @@
   <div class="single-tags">
     
     <span>
-      <a href="http://blog.charleschile.com/tags/%E5%AE%9E%E4%B9%A0/">#实习</a>
+      <a href="http://localhost:1313/tags/database/">#Database</a>
     </span>
     
     
     <span>
-      <a href="http://blog.charleschile.com/tags/intern/">#Intern</a>
+      <a href="http://localhost:1313/tags/golang/">#Golang</a>
     </span>
     
     
@@ -156,14 +151,42 @@
   
   <aside class="toc">
     <p><strong>Table of contents</strong></p>
-    <nav id="TableOfContents"></nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#记录">记录</a>
+      <ul>
+        <li><a href="#724">7.24</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
   </aside>
   
 
   
 
   <div class="single-content">
-    <p>实习</p>
+    <h2 id="记录">记录</h2>
+<h3 id="724">7.24</h3>
+<p>tasks</p>
+<h4 id="embedding-function">embedding function</h4>
+<ul>
+<li><input disabled="" type="checkbox"> update the embedding description and document</li>
+</ul>
+<h4 id="chunk-function">chunk function</h4>
+<p>we need to support chunk function in such a way that it accepts a URL or a data link. And then it will read from that particular file and then chunk the files.</p>
+<p>But we&rsquo;ll need to support Chunk for detailing as well so as in like, basically, we need to read a file and then, do the chunking on that particular file and then output that particular jump as combination of file URL offset and size.</p>
+<p>Instead of that, you should be outputting file URL this thing in size if it is off type.</p>
+<p>Loadfile function is being modified!</p>
+<blockquote>
+<p>LOAD_FILE -&gt; 2 overloads -&gt; return text type</p>
+<p>It was not designed to read files from all the rules or something of that sort. it would just read files from the 1st row</p>
+<p>ReadFromFIle function</p>
+</blockquote>
+<ul>
+<li><input disabled="" type="checkbox"> read a file</li>
+<li><input disabled="" type="checkbox"> do the chunking</li>
+</ul>
 
     
   </div>
@@ -183,8 +206,8 @@
             <div class="single-pagination-container-prev">
                 <div class="single-pagination-text">←</div>
                 <div class="single-pagination-text">
-                    <a href="/posts/hugo-images/">
-                        Controlling Images with tags in Hugo
+                    <a href="/posts/abtest/">
+                        A/B test论文阅读：Overlapping Experiment Infrastructure: More, Better, Faster Experimentation
                     </a>
                 </div>
             </div>
@@ -192,15 +215,6 @@
         </div>
 
         <div class="single-pagination-next">
-            
-            <div class="single-pagination-container-next">
-                <div class="single-pagination-text">
-                    <a href="/posts/hugo/">
-                        Build Personal Website with Hugo
-                    </a>
-                </div>
-                <div class="single-pagination-text">→</div>
-            </div>
             
         </div>
 

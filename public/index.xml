@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Chi Le</title>
-    <link>http://localhost:1313/</link>
+    <link>http://blog.charleschile.com/</link>
     <description>Recent content in Home on Chi Le</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Jul 2024 16:11:26 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.charleschile.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A/B test论文阅读：Overlapping Experiment Infrastructure: More, Better, Faster Experimentation</title>
-      <link>http://localhost:1313/posts/abtest/</link>
+      <link>http://blog.charleschile.com/posts/abtest/</link>
       <pubDate>Tue, 23 Jul 2024 16:11:26 +0800</pubDate>
-      <guid>http://localhost:1313/posts/abtest/</guid>
+      <guid>http://blog.charleschile.com/posts/abtest/</guid>
       <description>来自谷歌团队a/b test的实践和来自美团的测试平台的实践</description>
     </item>
     <item>
       <title>Build Personal Website with Hugo</title>
-      <link>http://localhost:1313/posts/hugo/</link>
+      <link>http://blog.charleschile.com/posts/hugo/</link>
       <pubDate>Mon, 22 Jul 2024 16:41:17 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hugo/</guid>
+      <guid>http://blog.charleschile.com/posts/hugo/</guid>
       <description>Experience with building and deploying Hugo website</description>
     </item>
     <item>
       <title>美团实习经历</title>
-      <link>http://localhost:1313/posts/intern/</link>
+      <link>http://blog.charleschile.com/posts/intern/</link>
       <pubDate>Mon, 22 Jul 2024 16:34:32 +0800</pubDate>
-      <guid>http://localhost:1313/posts/intern/</guid>
+      <guid>http://blog.charleschile.com/posts/intern/</guid>
       <description>Software development engineer internship experience @ Meituan</description>
     </item>
     <item>
       <title>Controlling Images with tags in Hugo</title>
-      <link>http://localhost:1313/posts/hugo-images/</link>
+      <link>http://blog.charleschile.com/posts/hugo-images/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo-images/</guid>
+      <guid>http://blog.charleschile.com/posts/hugo-images/</guid>
       <description>GitHub-like image control with Hugo using tags, supporting theme switching, and size adjustments.</description>
     </item>
     <item>
       <title>Probabilistic to-visit Queue</title>
-      <link>http://localhost:1313/posts/prob-queue/</link>
+      <link>http://blog.charleschile.com/posts/prob-queue/</link>
       <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/prob-queue/</guid>
+      <guid>http://blog.charleschile.com/posts/prob-queue/</guid>
       <description>A probabilistic collection leveraging Bloom Filters to store a set of 1 billion visited URLs in 18mb.</description>
     </item>
     <item>
       <title>Search Engine in Rust</title>
-      <link>http://localhost:1313/posts/search-engine/</link>
+      <link>http://blog.charleschile.com/posts/search-engine/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/search-engine/</guid>
+      <guid>http://blog.charleschile.com/posts/search-engine/</guid>
       <description>A search engine overview and Rust implementation, supporting free and boolean ranked queries, efficient disk and memory usage, and spelling correction.</description>
     </item>
     <item>
       <title>Log-Structured Merge Tree</title>
-      <link>http://localhost:1313/posts/lsm/</link>
+      <link>http://blog.charleschile.com/posts/lsm/</link>
       <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lsm/</guid>
+      <guid>http://blog.charleschile.com/posts/lsm/</guid>
       <description>An LSM Tree overview and Java implementation, with a Skiplist, SStables, and background compaction from scratch.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://blog.charleschile.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://blog.charleschile.com/about/</guid>
       <description>Currently, I am a Master&amp;rsquo;s student in Electrical and Computer Engineering at Duke University. I have gained industry experience as a Software Engineer Intern at Meituan in Beijing and MatrixOrigin in Sunnyvale.&#xA;Experience Meituan 05/24 - 08/24 | Beijing Software Engineer Intern&#xA;MatrixOrigin 06/24 - 10/24 | Sunnyvale Software Engineer Intern&#xA;Education Duke University 2023 - 2025 Master&amp;rsquo;s Student in Electrical and Computer Engineering&#xA;Zhejiang University 2019 - 2023 Bachelor&amp;rsquo;s degree in Biomedical Sciences</description>
     </item>
   </channel>

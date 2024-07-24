@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/abtest/</loc>
+    <loc>http://blog.charleschile.com/</loc>
+    <lastmod>2024-07-24T10:35:26+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.charleschile.com/posts/</loc>
+    <lastmod>2024-07-24T10:35:26+08:00</lastmod>
+  </url><url>
+    <loc>http://blog.charleschile.com/posts/abtest/</loc>
     <lastmod>2024-07-23T16:11:26+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/database/</loc>
+    <loc>http://blog.charleschile.com/tags/database/</loc>
     <lastmod>2024-07-23T16:11:26+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://blog.charleschile.com/tags/java/</loc>
     <lastmod>2024-07-23T16:11:26+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/java/</loc>
+    <loc>http://blog.charleschile.com/tags/</loc>
     <lastmod>2024-07-23T16:11:26+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-23T16:11:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-23T16:11:26+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/hugo/</loc>
+    <loc>http://blog.charleschile.com/posts/hugo/</loc>
     <lastmod>2024-07-22T16:41:17+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/intern/</loc>
+    <loc>http://blog.charleschile.com/tags/intern/</loc>
     <lastmod>2024-07-22T16:34:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E5%AE%9E%E4%B9%A0/</loc>
+    <loc>http://blog.charleschile.com/tags/%E5%AE%9E%E4%B9%A0/</loc>
     <lastmod>2024-07-22T16:34:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/intern/</loc>
+    <loc>http://blog.charleschile.com/posts/intern/</loc>
     <lastmod>2024-07-22T16:34:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/hugo-images/</loc>
+    <loc>http://blog.charleschile.com/posts/hugo-images/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/prob-queue/</loc>
+    <loc>http://blog.charleschile.com/posts/prob-queue/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/rust/</loc>
+    <loc>http://blog.charleschile.com/tags/rust/</loc>
     <lastmod>2024-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/information-retrieval/</loc>
+    <loc>http://blog.charleschile.com/tags/information-retrieval/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/search-engine/</loc>
+    <loc>http://blog.charleschile.com/posts/search-engine/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/lsm/</loc>
+    <loc>http://blog.charleschile.com/posts/lsm/</loc>
     <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://blog.charleschile.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/g-xxxxxxxxx/</loc>
+    <loc>http://blog.charleschile.com/g-xxxxxxxxx/</loc>
   </url>
 </urlset>
