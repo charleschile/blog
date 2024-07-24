@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "MatrixOne开源开发经历"
 date: '2024-07-24T10:35:26+08:00'
 summary: "MatrixOne开源开发经历"
